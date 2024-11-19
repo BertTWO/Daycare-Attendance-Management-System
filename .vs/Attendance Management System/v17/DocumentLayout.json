@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\attendance management system\\forms\\controlls\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\forms\\controlls\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\attendance management system\\forms\\controlls\\scanqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\forms\\controlls\\scanqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\attendance management system\\model\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\model\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\attendance management system\\model\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\model\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\attendance management system\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\attendance management system\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\attendance management system\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\attendance management system\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\attendance management system\\services\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\services\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\attendance management system\\forms\\controlls\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\forms\\controlls\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|c:\\users\\coin\\desktop\\csharp projects\\saligue-ds-final\\attendance management system\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\attendance management system\\forms\\controlls\\scanqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\forms\\controlls\\scanqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\attendance management system\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\attendance management system\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\attendance management system\\services\\qrhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\services\\qrhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\attendance management system\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\attendance management system\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|c:\\users\\coin\\desktop\\csharp projects\\saligue-ds-final\\attendance management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|c:\\users\\coin\\desktop\\csharp projects\\saligue-ds-final\\attendance management system\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\attendance management system\\services\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\services\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\attendance management system\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\attendance management system\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835F331D-D25B-496B-BACA-3FAD3FF589DB}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QrHelper.cs",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Services\\QrHelper.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Services\\QrHelper.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Services\\QrHelper.cs",
+              "RelativeToolTip": "Attendance Management System\\Services\\QrHelper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:57:03.548Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Attendance Management System\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:35:16.792Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Program.cs",
+              "RelativeToolTip": "Attendance Management System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:11:42.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\packages.config",
+              "RelativeDocumentMoniker": "Attendance Management System\\packages.config",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\packages.config",
+              "RelativeToolTip": "Attendance Management System\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-19T00:10:09.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddStudent.cs",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\Controlls\\AddStudent.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Forms\\Controlls\\AddStudent.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\Controlls\\AddStudent.cs",
+              "RelativeToolTip": "Attendance Management System\\Forms\\Controlls\\AddStudent.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:36:36.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Services\\Connection.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Services\\Connection.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Services\\Connection.cs",
+              "RelativeToolTip": "Attendance Management System\\Services\\Connection.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAADQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:17:15.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "Attendance Management System\\Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:38:35.039Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Forms\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Attendance Management System\\Forms\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBUCAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:35:28.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Model\\Attendance.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Model\\Attendance.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Model\\Attendance.cs",
+              "RelativeToolTip": "Attendance Management System\\Model\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:01:23.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\App.config",
+              "RelativeDocumentMoniker": "Attendance Management System\\App.config",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\App.config",
+              "RelativeToolTip": "Attendance Management System\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-17T13:48:16.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Forms\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\MainForm.Designer.cs",
+              "RelativeToolTip": "Attendance Management System\\Forms\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:28:23.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScanQr.cs",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\Controlls\\ScanQr.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Forms\\Controlls\\ScanQr.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\Controlls\\ScanQr.cs",
+              "RelativeToolTip": "Attendance Management System\\Forms\\Controlls\\ScanQr.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:18:06.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScanQr.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\Controlls\\ScanQr.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Forms\\Controlls\\ScanQr.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\Controlls\\ScanQr.cs [Design]",
+              "RelativeToolTip": "Attendance Management System\\Forms\\Controlls\\ScanQr.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:07:35.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\Controlls\\AddStudent.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Forms\\Controlls\\AddStudent.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\Controlls\\AddStudent.cs [Design]",
+              "RelativeToolTip": "Attendance Management System\\Forms\\Controlls\\AddStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:10:35.646Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Model\\Parent.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Model\\Parent.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Model\\Parent.cs",
+              "RelativeToolTip": "Attendance Management System\\Model\\Parent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:52:10.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\MainForm.cs",
+              "RelativeToolTip": "Attendance Management System\\Forms\\MainForm.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:51:49.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Model\\Student.cs",
+              "RelativeToolTip": "Attendance Management System\\Model\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:41:15.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Model\\User.cs",
+              "RelativeToolTip": "Attendance Management System\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:10:50.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "text.cs",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\text.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\text.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\text.cs",
+              "RelativeToolTip": "Attendance Management System\\text.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAEwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:10:04.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Services\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Services\\PasswordHelper.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Services\\PasswordHelper.cs",
+              "RelativeToolTip": "Attendance Management System\\Services\\PasswordHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:30:06.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "Attendance Management System\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwEQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:41:25.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Saligue-DS-FINAL\\Attendance Management System\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Attendance Management System\\Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:34:59.575Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
